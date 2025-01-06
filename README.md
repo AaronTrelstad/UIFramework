@@ -1,4 +1,4 @@
-Making a UI Framework from scratch: Inspired by React's Architecture (Work in Progress).
+Making a UI Framework from scratch: Inspired by **[React's Architecture](https://github.com/facebook/react)** (Work in Progress).
 
 **Key Features**
 
